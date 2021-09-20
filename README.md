@@ -22,5 +22,3 @@ Create a ggplot of the Metals Index
 Create a dygraph of the Metals Index
 
 Convert the last one to a pdf and upload to the bucket labeled TheBet_2
-
-# ============================================
